@@ -1,0 +1,20 @@
+.odd_p {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#second_element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#id_3 {
+    font-size: 24px;
+}
+
+#id_4 {
+    background-color: rgb(159, 255, 16);
+    font-size: 24px;
+    font-weight: bold;
+}
